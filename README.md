@@ -1,1 +1,1 @@
-# to-do-list
+# Lista de afazeres com JavaScript.
